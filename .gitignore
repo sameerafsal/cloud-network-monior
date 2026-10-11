@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (auto-generated when app.py runs)
+*.db-journal
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# OS temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
